@@ -11,4 +11,4 @@ This is a mod for the game [Metal: Hellsinger](https://twitter.com/metalhellsing
 
 ### Video Demo
 
-[![Video Demo]({image-url})]({https://streamable.com/e/xitegp} "Demo Video")
+[![Watch the video](https://cdn.akamai.steamstatic.com/steam/apps/1061910/header.jpg?t=1663363295)](https://streamable.com/e/xitegp)
