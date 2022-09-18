@@ -8,3 +8,7 @@ This is a mod for the game [Metal: Hellsinger](https://twitter.com/metalhellsing
 3. (Optional) Backup this file in case you want to recover the original song in the future
 4. Overwrite the original file with the modded one
 5. Go into the game and play the mission called **Stygia**
+
+### Video Demo
+
+[![Video Demo]({image-url})]({https://streamable.com/e/xitegp} "Demo Video")
