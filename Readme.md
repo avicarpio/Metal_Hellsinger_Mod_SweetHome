@@ -12,3 +12,10 @@ This is a mod for the game [Metal: Hellsinger](https://twitter.com/metalhellsing
 ### Video Demo
 
 [![Watch the video](https://cdn.akamai.steamstatic.com/steam/apps/1061910/header.jpg?t=1663363295)](https://streamable.com/e/xitegp)
+
+### Extra - Special Thanks
+
+PCGamesN [Article](https://www.pcgamesn.com/metal-hellsinger/mod-sweet-home-alabama)
+TheGamer [Article](https://www.thegamer.com/metal-hellsinger-music-mod-sweet-home-alabama/)
+Reddit [Reddit Post](https://www.reddit.com/r/MetalHellsinger/comments/xhoo6t/sweet_home_alabama_mod_download/)
+
