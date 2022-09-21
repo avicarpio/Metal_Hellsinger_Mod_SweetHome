@@ -1,6 +1,6 @@
 # Sweet Home Alabama Music Mod
 
-This is a mod for the game [Metal: Hellsinger](https://twitter.com/metalhellsinger) developed by [The Outsiders](https://twitter.com/outsidersgames). It is a replacement for the music of the level Stygia.
+This is the world first mod for the game [Metal: Hellsinger](https://twitter.com/metalhellsinger) developed by [The Outsiders](https://twitter.com/outsidersgames). It is a replacement for the music of the level Stygia.
 
 ### How to install
 1. Download the file `StygiaSongBank.bank`
@@ -18,4 +18,5 @@ This is a mod for the game [Metal: Hellsinger](https://twitter.com/metalhellsing
 PCGamesN [Article](https://www.pcgamesn.com/metal-hellsinger/mod-sweet-home-alabama)
 TheGamer [Article](https://www.thegamer.com/metal-hellsinger-music-mod-sweet-home-alabama/)
 Reddit [Reddit Post](https://www.reddit.com/r/MetalHellsinger/comments/xhoo6t/sweet_home_alabama_mod_download/)
+Metal: Hellsinger Team [Tweet](https://twitter.com/MetalHellsinger/status/1571833815663869952?s=20&t=z-8MZRvGWCDf50GTv3f83A)
 
